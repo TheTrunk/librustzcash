@@ -25,7 +25,7 @@ zcash_client_backend = { version = "0.4", path = "../zcash_client_backend" }
 zcash_primitives = { version = "0.4", path = "../zcash_primitives" }
 
 [dev-dependencies]
-rand_core = "0.6.1"
+rand_core = "0.5.0"
 tempfile = "3"
 zcash_proofs = { version = "0.4", path = "../zcash_proofs" }
 

@@ -25,7 +25,7 @@ group = "0.8"
 jubjub = "0.5.1"
 lazy_static = "1"
 minreq = { version = "2", features = ["https"], optional = true }
-rand_core = "0.6.1"
+rand_core = "0.5.0"
 wagyu-zcash-parameters = { version = "0.2", optional = true }
 zcash_primitives = { version = "0.4", path = "../zcash_primitives" }
 
